@@ -5,25 +5,25 @@ Accessible, responsive Profile Card built with semantic HTML, CSS, and vanilla J
 
 ## Files
 
-```
+
 profile-card/
 ├── index.html   ← Markup & all data-testid attributes
 ├── style.css    ← Responsive styles (mobile / tablet / desktop)
 └── script.js    ← Live epoch-ms clock (updates every 500ms)
-```
 
-## Run Locally
 
-```bash
-# Just open the file
+
+
+
+Just open the file
 open index.html
 
 # Or serve with a dev server
 npx serve .
 # → http://localhost:3000
-```
 
-## data-testid Reference
+
+data-testid Reference
 
 | Element              | data-testid                   |
 |----------------------|-------------------------------|
